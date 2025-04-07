@@ -50,9 +50,9 @@ for x in urlList:
         print("Timeout waiting for heading to load")
     #times out if no h1 headers are found
 
+    #parses through the page
     html = driver.page_source
     soup = BeautifulSoup(html, 'lxml')
-    #parses the headers
     headings = soup.find_all(['h1', 'h2', 'h3'])
     print("Total headings found: ", len(headings))
     output += "Total headings found: " + str(len(headings)) +"\n\n"
@@ -63,7 +63,7 @@ for x in urlList:
     output = output+"\nEnd Scraping\n\n"
 driver.quit()
 
-#writes to file output string, which includes entirety of program
+#writes to file output, encoded to ensure no unicode errors
 with open("urlOutput.txt", "w", encoding="utf-8") as f:
     f.write(output)
 print("done")
