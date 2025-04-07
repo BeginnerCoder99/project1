@@ -38,7 +38,7 @@ for x in urlList:
     output += "\nScraping website at " + x 
     try:
         WebDriverWait(driver, 30).until(
-            EC.presence_of_element_located((By.CSS_SELECTOR, "h2"))
+            EC.presence_of_element_located((By.CSS_SELECTOR, "h1"))
         )
     except:
         print("Timeout waiting for heading to load")
