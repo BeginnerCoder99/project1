@@ -1,16 +1,11 @@
-Using the requirement.yaml file you should be able to download all the dependencies.
-conda env create -f requirement.yml
-In case this doesn't work, the following is the manual installation of the dependencies.
+# p1.py AI headline response
+The program will read from a AIprompt.txt file three seperate lines. It will then feed these lines into two separate AI models before printing them out to the AIoutput.txt file. 
 
-In order to use my program, first make sure you pip install the following.
-pip install transforms torch.
-pip install transformers.
+## Installation
+You need to pip install transformers, selenium, and sentencepiece
 
-Then using conda,
-conda install -c conda-forge cmake
-conda install -c conda-forge sentencepiece
+## How to Use
+Write three separate lines of information you want an AI to respond to in AIprompt.txt file. After that run program p1.py making sure AIprompt.txt is in the same directory as p1.py file. The program will then print the responses to a file called AIoutput.txt or create the file if it is not already present.
 
-github repository is https://github.com/BeginnerCoder99/project1/
-so you can clone repository.
-Make sure you have the AIprompt.txt file in the same directory as the executable.
-It should create and write to AIoutput.txt 
+## Notes 
+The program uses built in AI models from transformers torch library along with a tokenizer from the sentencepiece library to translate the AI response to english. The ideal step to make after this is to automate it to be able to read an entire file instead of simply reading from exactly three lines. As it stands, the program is too specific to the project and can't stand alone without being reworked.
