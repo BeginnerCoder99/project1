@@ -1,20 +1,9 @@
-
-Scraping website at https://www.investopedia.com/
-Total headings found: 6
-
 Find the Best Financial Products
 OUR TOP PICKS FOR APRIL:
 Investopedia for Advisors
 Our Mission
 Inclusive Content
 Financial Review Board
-
-End Scraping
-
-
-Scraping website at https://finance.yahoo.com/
-Total headings found: 122
-
 News
 Life
 Entertainment
@@ -23,233 +12,37 @@ Sports
 New on Yahoo
 Yahoo Finance
 Trending Tickers
-Stock futures plunge as Trump tariff rout restarts
-Trump says markets may have to 'take medicine'
-Analysts say stocks have 'ample space' to keep selling off
-Tesla bull Ives slashes stock price target 43%, citing Musk and Trump
-South Korea to prepare support measures as US tariffs loom
-Trump calls tariffs 'a very beautiful thing' as markets continue collapse
-China floats rate cuts, industry aid to counter Trump tariff hit
-China investors brace for 'ugly' Monday on US tariff retaliation
-Oil prices extend losses on fears global trade war could slow economy
-Bitcoin falls as risk off spreads
+Stock futures slip ahead of huge week of Big Tech earnings, economic data
+April jobs report and Big Tech earnings on tap for the week ahead
+US ports see drop-off in demand fueled by by Trump's China tariffs
+'A big boost to confidence': Trump pivots as trade negotiations drag on
+Trump floats new income tax cut in bid to ease bite of tariffs
+Oil ticks higher with trade war and China's outlook to the fore
+'Welcome to the Thunderdome': Inside 100 dizzying days of Trump
+Treasury market's 'new world order' brings fear of the long bond
+Saudi Arabia and Qatar to pay back Syria's debt to the World Bank
+Why vaccine makers aren't worried about Trump administration cuts
 Latest
-Samsung Elec says TV business to be less affected by US tariffs than rivals
-India's Tata Motors slides 8% after luxury arm JLR pauses exports to US
-Goldman Sachs raises odds of US recession to 45%
-China's Horizon Robotics announces partnership with Volkswagen on advanced smart driving tech
-India's maintains 2025/26 growth projection despite US tariffs, official says
-RBNZ to cut rates by 25bps, economists say more cuts possible after U.S. tariffs
-China teapot oil refiners improve run rates but demand woes, sanctions weigh
-Watch These Bitcoin Price Levels as Cryptocurrency Drops Below $80K Amid Tariff Worries
-Popular
-Warren Buffett defended his massive $300 billion cash pile in February. Now he doesn't have to.
-Warren Buffett's Stance on Import Tariffs Raises Flags. But Don't Ignore His Words on Investing During Times of Market Turmoil.
-DOGE’s private contract crackdown has eliminated more than 120 Deloitte contracts—more than twice the amount of any other consultancy
-Tesla Estimates Cut Further on ‘Unprecedented Brand Damage’
-Limited-time offer: 100,000-point welcome bonus for new Chase Sapphire Preferred cardmembers
-Peter Schiff Slams Gamestop's Bitcoin Strategy As Shares Plummet: 'Now That All The Fools Have Already Rushed In, Smarter Investors Are Selling'
-Chamath Palihapitiya Agrees You Should No Longer Learn To Code, Says Parents Should Advise Their Kids To Focus On These Subjects Instead
-Here's how investors see the economy evolving in 2025
-Trump tariffs are a 'self-inflicted economic Armageddon'
-This analyst is 'not too worried' about Nvidia's pricing power
-How tariffs are shaping US car prices and automaker strategies
-Why a Fed rate cut won't 'cure the ills' of tariff impacts
-Investment Ideas
-Analyst Strong Buy Stocks
-Top Daily Gainers
-Top Daily Losers
-Morningstar 5-Star Stocks
-Most Active Stocks
-Top ETFs
-Undervalued Growth Stocks
-Fundamental Trade Ideas
-Technical Trade Ideas
-StockStory Top Picks
-Build Your Wealth
-How to protect your money during stock market volatility
-Smart Money Moves
-Tax day is approaching fast. Here’s what to know.
-Will mortgage rates ever be 3% again?
-How Trump's tariffs work and what they mean for your wallet
-How to invest in gold in 4 steps
-What is stagflation, and how does it impact you?
-More Ways to Save
-Chase Sapphire Preferred offers 100,000-point welcome bonus
-Living paycheck to paycheck​? How to break the cycle.
-Do banks report your deposits to the IRS?
-How to buy a house with no down payment
-What if I can’t pay my taxes? 5 ways to manage your bill.
-Snapshots
-The worst week for stocks since the COVID-19 crash
-Nasdaq enters bear market as Trump tariffs spark worst meltdown since 2020
-Nvidia, Apple, Tesla stocks plunge, leading another 'Magnificent 7' sell-off
-Wall Street fears the worst-case scenario for stocks in 2025
-More News
-Warren Buffett defended his massive $300 billion cash pile in February. Now he doesn't have to.
-Warren Buffett's Stance on Import Tariffs Raises Flags. But Don't Ignore His Words on Investing During Times of Market Turmoil.
-DOGE’s private contract crackdown has eliminated more than 120 Deloitte contracts—more than twice the amount of any other consultancy
-Tesla Estimates Cut Further on ‘Unprecedented Brand Damage’
-Limited-time offer: 100,000-point welcome bonus for new Chase Sapphire Preferred cardmembers
-Peter Schiff Slams Gamestop's Bitcoin Strategy As Shares Plummet: 'Now That All The Fools Have Already Rushed In, Smarter Investors Are Selling'
-Chamath Palihapitiya Agrees You Should No Longer Learn To Code, Says Parents Should Advise Their Kids To Focus On These Subjects Instead
-United Airlines relaunched its credit cards — here are all the changes, plus a limited-time bonus
-Limited-time offer: Earn up to 185,000 points with three new Marriott Bonvoy credit card bonuses
-Earn up to 100,000 Delta SkyMiles with these limited-time credit card offers
-Trump tariffs live updates: Trump digs in, says markets may have to 'take medicine' as stock futures plunge
-Stock market today: Dow, S&P 500, Nasdaq futures plunge as Trump tariff rout set to escalate
-Trump calls tariffs 'a very beautiful thing' as markets continue collapse after 'Liberation Day' shock
-Wall Street experts warn stocks have 'ample space' to continue cratering as Trump team digs in on tariffs
-The White House cited these economists to justify its tariffs. They aren't thrilled.
-Forget 60/40. BlackRock's Larry Fink wants investors to embrace 50/30/20.
-How Rolex's new Land-Dweller watch aims to 'invigorate' the collector base
-Why so many investors lose money in the energy trade
-Why it's impossible to know what will happen next
-What Taylor Swift can teach us about career-building
-Builders sitting on a pile of unsold homes are slashing prices and offering mortgage rate deals
-What longtime tax reform 'zealot' Bill Bradley has to say about Trump's plans
-Homebuilders got a bit of a break from Trump’s tariffs, but the housing market could still suffer
-'Too late to panic': Wall Street strategists warn messy tariff fallout won't go away anytime soon
-Why Trump tariffs have made it impossible to pick stocks
-Tariff fallout in focus after stocks' worst week since 2020: What to know this week
-CD rates today, April 6, 2025 (up to 4.50% APY)
-Money market account rates today, April 6, 2025 (best account provides 4.47% APY)
-Mortgage and refinance rates today, April 6, 2025: Rates drop in response to struggling economy
-Best high-yield savings interest rates today, April 6, 2025 (best accounts offering 4.30% APY)
-Emotional trading will destroy your portfolio if you let it: Veteran trader
-How to clear AI slop from your Instagram and TikTok feeds
-Pay transparency laws land in more states as raises slump
-Should you buy the dip? Veteran trader explains why it 'isn't always the smartest thing to do'
-The many ways Trump world is explaining the market's tariff tantrum
-Stock rout and dealmaking freeze raise stakes for start of Wall Street's earnings season
-The worst week since 2020: Chart of the Week
-Mortgage and refinance rates today, April 5, 2025: Lowest 30-year rate in weeks
-CD rates today, April 5, 2025 (best account provides 4.50% APY)
-Wall Street comes to a painful realization: Trump was serious about steep tariffs all along
-Best high-yield savings interest rates today, April 5, 2025 (earn up to 4.50% APY)
-Money market account rates today, April 5, 2025 (best account provides 4.47% APY)
-Stock market today: Dow plunges 2,200 points, Nasdaq enters bear market as Trump tariffs spark worst meltdown since 2020
-Former Microsoft CEO Steve Ballmer says companies need to continue to invest despite tariff turmoil
-JPMorgan becomes the first Wall Street bank to forecast a US recession following Trump's tariffs
-Trump tariffs pile on the trouble for US bourbon makers, European spirit players
-This week in Trumponomics: Economic malpractice
-Wall Street fears Trump's tariffs will wipe out 2024's stock market gains
-Nvidia, Apple, Tesla stocks plunge, leading another 'Magnificent 7' sell-off as a trade war intensifies
-9 common types of banks: Which one is right for you?
-Trending Tickers
-
-End Scraping
-
-
-Scraping website at https://financialpost.com/Total headings found: 107
-
+Australian stock exchange operator to reassess M&A rules amid James Hardie backlash
+...Reached 20 headings, stopping early...
 Home | Financial Post Home Page | Financial Post
-Jamie Golombek’s primer on tax brackets, deductions and credits
+Gas prices have dropped — but will they stay down for road-trip season?
 The best mortgage rates in Canada right now
-Early retirement could cut B.C. couple’s pension income nearly in half
-These investments are 'immune' to Trump's trade war
-Why falling rates spell trouble for anyone needing to break their mortgage contract
-Here's why Bill C-69 is shaping up as a campaign wedge issue
-Trump's move to kill duty-free shipping from China will cost Canadian companies
-How tariffs will affect Canadian pocketbooks
-Stocks are plunging and that may only be the start of the pain for Canadian consumers
-Tesla estimates cut further on ‘unprecedented brand damage’
-Rogers reveals buyer, structure of $7B deal for stake in its network infrastructure
-Jack Mintz: How to respond to Trump’s tariff provocations
-Buffett says comments attributed to him on X, TikTok ‘all false’
+Election promises add up to a lot of red ink — but reality could be even worse
+Howard Levitt: Dispelling common myths about summer vacation time
+What the tech sector wants from the federal election as Canada faces 'perfect storm' for foreign takeovers
+Here's how important homeownership is to building wealth in Canada
+More than half of Canadians say housing policies will influence how they will vote Monday
+Trump has crushed Canadians' dreams of moving to the U.S., says new survey
+If a tree falls in a Canadian forest, will Donald Trump's America still buy it?
+Fear and influence beyond the campaign trail: FP Video on Trump's fiscal footprint
+David Rosenberg: Bank of Canada has made a big mistake by being so timid
+Howard Levitt: The ins and outs (and risks) of constructive dismissal claims
+'Grim' retail sales underbelly points to Bank of Canada restarting rate cuts, economists say
 Latest Videos
 News
-Tesla shares rally on hopes Musk will refocus on carmaker
-Nintendo delays U.S. pre-orders for Switch 2 on Trump tariffs
-Trump extends TikTok deadline 75 days to save app
-Buffett says comments attributed to him on X, TikTok ‘all false’
-Bank of Canada expected to make deeper rate cuts amid stock rout, job losses
-Bank of Canada expected to make deeper rate cuts amid stock rout, job losses
-How Canada could win a 'no tariffs' deal
-Why falling rates spell trouble for anyone needing to break their mortgage contract
-Bank of Canada April rate cut still in play as job market weakens, economists say
-Keep calm and heed Warren Buffett — history shows market meltdowns are short-lived
-Federal Election
-What you need to know about Poilievre's capital gains tax deferral proposal
-As leaders pledge tax cuts on Canadian vehicles, here are the eight cars that might qualify
-How each party plans to fight tariffs and why economists recommend the soft approach
-Poilievre pitches expanding U.S. trade to fund Canada's military
-Why the NDP's $18 billion retrofit plan may be giving some a sense of deja vu
-Economy
-Bank of Canada April rate cut still in play as job market weakens, economists say
-Canada's unemployment rate rises to 6.7% as economy loses 33,000 jobs
-How Canada could win a 'no tariffs' deal
-Recap: Stock markets plunge day after Trump begins worldwide tariffs
-Recap: Q&A about Trump's latest tariffs changes
-weather (Toronto)
-Energy
-Why Canadian oil is sold to the U.S. at a 'discount' and have tariffs made things worse?
-Brookfield to buy owner of Colonial Pipeline for US$9 billion
-Canada's oilpatch executives replace tariff anxiety with fear of slowdown in energy demand
-Canada hits back with tariffs on U.S. vehicles as auto sector reels
-Oilpatch wish list for transforming energy policy makes its election debut
-Mining
-Bullion explorer makes MAGA pitch with new name: Made in America Gold
-Vancouver based explorer seeks Trump’s nod to mine metals on Pacific seabed
-Trade war uncertainty douses once-hot uranium stocks
-Trade war uncertainty douses once-hot uranium stocks
-Trump's order to boost mining in the U.S. could end up helping Canadian companies
-Real Estate
-Posthaste: Why 'economic chaos' isn’t slowing the cottage market
-GTA home sales drop in March amid trade concerns: TRREB
-Jon Love: The housing crisis has a simple solution — and it doesn't involve yet another government program
-Canada's downtown office vacancy falls for first time since 2020
-Carney vows to revive Canada's wartime-era homebuilding strategy
-Finance
-Santander wins Canadian banking license amid push into Americas
-RBC says winning the 'AI arms race' key to future growth despite trade war uncertainty
-Trump's global shakeup is complicating life for Canada's $2-trillion pension giants
-Scotiabank taps HSBC’s Elek to take over as Mexico unit CEO
-Trump’s crypto project to offer U.S. dollar-tracking stablecoin
-Work
-Scotiabank taps HSBC’s Elek to take over as Mexico unit CEO
-Howard Levitt: A recent court decision busts myths around severance entitlements
-Hudson’s Bay cuts 200 corporate jobs effective April 4
-Canadians' fear of losing their jobs to a trade war is fading: poll
-HBC's restructuring plan opposed by employees, joint-venture partner RioCan
-Wealth
-Gen Z and millennial Canadians already stressed about money and a trade war adds to the pressure
-Warren Buffett’s enduring relevance and what even younger investors can learn
-Millennial professor’s side gig earns him $80,000 to $90,000 yearly
-Is 40 years old too late to build generational wealth?
-Arlene Dickinson once used grocery money to invest in stock
-Investor
-Keep calm and heed Warren Buffett — history shows market meltdowns are short-lived
-Subscriber only. U.S. tariff shock underscores the instability of a shifting world
-Subscriber only. Ruchir Sharma: The end of American exceptionalism goes beyond Trump
-Gold, oil, other commodities hit as Trump’s tariffs threaten demand and economy
-Stock-concentration fear spurs wall street’s latest ETF solution
-FP Comment
-Opinion: Canada is an 'accident' still waiting to happen
-Jack Mintz: How to respond to Trump’s tariff provocations
-Opinion: For the sake of their futures, Canadian kids need to be better at math
-Terence Corcoran: Will centrist Liberals turn against Carney? New housing plan could pull the trigger
-Opinion: We need to hear political candidates’ views on the globalist vision for 2050
-Executive Women
-WXN’s Canada’s most Powerful Women: Top 100 goes boldly forward
-Taking the bold path
-Compass Rose Entrepreneurs Awards
-2024 Hall of Fame
-AMEX Emerging Leaders Awards
-Financial Times
-Subscriber only. U.S. tariff shock underscores the instability of a shifting world
-Subscriber only. Gold miners strike a rich seam
-Subscriber only. Investors flock to gold funds as fears over Trump tariffs mount
-Subscriber only. Gold is the real 'Trump put'
-Subscriber only. Ruchir Sharma: The end of American exceptionalism goes beyond Trump
-Business Essentials
-Get ahead in your career with the latest project management certification
-Enhance office productivity with savings on Microsoft Office
-Cybersecurity and AI: How Microsoft meets a changing tech landscape
-28 per cent of Canadian adults run their own side hustle
-Add an extra layer of protection to your devices with this all-in-one security solution
-You've reached the 20 article limit.
-Looks like you've reached your saved article limit!
-
-End Scraping
-
+Pace of rent increases slows, but housing costs still rising in Metro Vancouver
+Starbucks union rejects company’s proposed raise guarantee
+Yukon politicians threaten contempt over mine manager's refusal to answer questions
+Tech giants push U.S. stocks higher with Tesla leading the pack
+...Reached 20 headings, stopping early...
