@@ -9,6 +9,8 @@
 #I keep running into anti-bot protection on websites
 #Found websites without bot protection
 #Had to encode unicode to get around windows bug with txt files.
+#updating program for project 3
+#Minor cleanup including making sure still working, removing excess structure in outputfile.
 
 
 from selenium import webdriver
@@ -22,6 +24,8 @@ import re
 
 options = webdriver.ChromeOptions()
 options.add_argument('--headless')  
+options.add_experimental_option('excludeSwitches', ['enable-logging'])
+options.add_argument('--ignore-certificate-errors')
 #website emulation but no browser cause headless
 
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
@@ -40,7 +44,6 @@ output = ""
 for x in urlList:
     driver.get(x)
     print("\nScraping website at", x)
-    output += "\nScraping website at " + x 
     #had issue with one site not using headers but specialy containers
     try:
         WebDriverWait(driver, 30).until(
@@ -55,12 +58,14 @@ for x in urlList:
     soup = BeautifulSoup(html, 'lxml')
     headings = soup.find_all(['h1', 'h2', 'h3'])
     print("Total headings found: ", len(headings))
-    output += "Total headings found: " + str(len(headings)) +"\n\n"
-    #cleans the headings
-    for h in headings:
+
+# Limit the number of headings processed to 20
+    max_headings = 20
+    for i, h in enumerate(headings):
+        if i >= max_headings:
+            break
         text = re.sub(r'\s+', ' ', h.get_text()).strip()
-        output = output+text+"\n"
-    output = output+"\nEnd Scraping\n\n"
+        output = output + text + "\n"
 driver.quit()
 
 #writes to file output, encoded to ensure no unicode errors
