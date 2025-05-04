@@ -8,7 +8,7 @@ channels:
 dependencies:
   - bzip2=1.0.8=h2bbff1b_6
   - ca-certificates=2025.2.25=haa95532_0
-  - cmake=3.31.6=hff78f93_0
+  - cmake=3.31.6=hff78f93_0`
   - expat=2.6.4=h8ddb27b_0
   - krb5=1.21.3=hdf4eb48_0
   - libabseil=20240722.0=cxx17_h4eb7d71_4
