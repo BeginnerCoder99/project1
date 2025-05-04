@@ -94,6 +94,6 @@ Prompt 42: neutral
 Prompt 43: neutral
 Prompt 44: negative
 Prompt 45: neutral
-Prompt 46: positive
+Prompt 46: neutral
 Prompt 47: negative
 Prompt 48: neutral
