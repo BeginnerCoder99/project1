@@ -3,7 +3,7 @@
 from scraper import Scraper
 from sentiment import SentimentAnalyzer
 
-# Mock URL for testing (you can use a simple website)
+# Mock URL for testing
 MOCK_URLS = ["https://example.com/"]
 
 def test_scraper_initialization():
